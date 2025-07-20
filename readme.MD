@@ -5,8 +5,6 @@
 
 **Amma** is an educational programming language written in **Malayalam**, designed primarily as a learning tool. Despite being created for educational purposes, Amma offers a complete programming experience even like **recursion, file-handling, string operations etc** with Malayalam keywords, making programming more accessible to Malayalam speakers.
 
-> [!note]
-> I created this project for me to learn about compilers, lexers, and related concepts. This is a personal educational project to help me understand how programming languages work under the hood.
 
 ## Table of Contents
 
