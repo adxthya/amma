@@ -362,7 +362,7 @@ x=vayikkuka("out.txt")
 
 ## Educational Purpose
 
-Amma was created primarily as an educational tool for learning about compilers. The language demonstrates:
+Amma was created primarily as an educational tool. The language demonstrates:
 
 1. **Lexical Analysis**: Converting source code to tokens
 2. **Parsing**: Constructing an Abstract Syntax Tree (AST)
